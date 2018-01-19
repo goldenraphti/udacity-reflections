@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	When I initialize a repository Git installes his hidden tracking file, but it does NOT create a commit automatically yet.
