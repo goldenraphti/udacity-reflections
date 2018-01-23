@@ -2,8 +2,22 @@ What happens when you initialize a repository? Why do you need to do it?
 
 	When I initialize a repository Git installes his hidden tracking file, but it does NOT create a commit automatically yet.
 
+
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 	The staging area is an intermediate state, where the files we put there are already under the focus of Git status, but they are not commit yet.
 
-Doing a test
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	By having this process everytime I feel I could come back to it.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Branches would be usefull to try experimental features, or build additional modules not aimed at the main public.
+
+
+How do the diagrams help you visualize the branch structure?
+
+	Diagrams help me visualize since it shows the branches, and so wich ones are reachable from where.
