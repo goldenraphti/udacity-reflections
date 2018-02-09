@@ -1,1 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local?
+	It is safer to have a remote repository in the sense that it is a second copy. Also, using GitHub means that there is a place accessible at anytime, for the other members of the team, to clone or pull. The no-good part is that GitHub is a private company, their servers are their servers, not the ones of the client company, so at the end of the day it is about trust in GitHub that they will never steal or get stolen the info we store on their servers.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+	Doing it manually means keeping more control. For example if I was working on something on a branch, on someone else worked too on the same branch, we might want to wait until we reach a point where it makes sense to share and merge the branches.
